@@ -2,6 +2,8 @@
 A simple windows executable program to keep private photos encrypted and view them as album.
 
 This app is capable of import any photos and videos and encrypt them immediately, encrypted files are stroed in a folder named Gallery which can be found in the same path of the .exe file itself.
+
+
 ![image](https://github.com/user-attachments/assets/d0181e65-0828-4e28-8e24-998fd51591c3)
 
 
@@ -10,6 +12,8 @@ This app is capable of import any photos and videos and encrypt them immediately
 - Also, in any case of problem loading the actual gallery, you can reset the app. Resetting will delete all stored encrypted files and the password with immediate effect.
 - For safety, a security question is set up. Answer is 'blue'
 ![image](https://github.com/user-attachments/assets/876e3ad5-1cb0-47dd-ab52-75c78cc8b8f2)
+
+
 ![image](https://github.com/user-attachments/assets/46c7e8a6-c0ac-4003-8266-f1d24f96d0fd)
 
 
